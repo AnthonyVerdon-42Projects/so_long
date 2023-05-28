@@ -16,9 +16,9 @@ This game has been made with the MinilibX library. You can find into the reposit
 
 ## How to play
 
-Movements : `WASD` or arrows
-Quit the game : `Echap` or the red cross
-If you win or lose, you can press `Enter` to restart the game.
+- Movements : `WASD` or arrows
+- Quit the game : `Echap` or the red cross
+- If you win or lose, you can press `Enter` to restart the game.
 
 ## Condition of the map
 
@@ -39,9 +39,9 @@ If you win or lose, you can press `Enter` to restart the game.
 
 I found the assets on itch.io. If you can, take a loot at the work of these artists !
 
-Player and enemies : https://o-lobster.itch.io/simple-dungeon-crawler-16x16-pixel-pack?download
-Ground : https://0x72.itch.io/16x16-dungeon-tileset
-Ground, Walls, Chests and Crates: https://0x72.itch.io/dungeontileset-ii?download
+- Player and enemies : https://o-lobster.itch.io/simple-dungeon-crawler-16x16-pixel-pack?download
+- Ground : https://0x72.itch.io/16x16-dungeon-tileset
+- Ground, Walls, Chests and Crates: https://0x72.itch.io/dungeontileset-ii?download
 
 ## Find a bug ?
 
