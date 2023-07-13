@@ -4,6 +4,7 @@
 
 This project is part of the second circle of the 42 common core. The goal is to create a little game. Your objective is to find all collectibles (symbolized by chests) and finish the level by going over the exit while avoiding enemies. It make me learn how to use a graphic librarie and how to create elements of gameplay. You will find the subject of the project into the repository. My grade : 125/100.
 
+![](https://github.com/AnthonyVerdon-42Projects/so_long/so_long.gif)
 ## How to use it
 
 1. Clone it `git clone git@github.com:AnthonyVerdon-42Projects/so_long.git`.
