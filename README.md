@@ -23,7 +23,7 @@ This game has been made with the MinilibX library. You can find into the reposit
 
 ## Condition of the map
 
-1. The map must a square surrounded by walls.
+1. The map must be a square surrounded by walls.
 2. All collectibles and the exit must be accessable.
 3. There must be an initial position for the player.
 
